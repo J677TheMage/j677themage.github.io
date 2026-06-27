@@ -2,7 +2,7 @@ window.PorfolioConfig = {
   name: 'J677TheMage',
   jobTitle: 'Minecraft Modder, Texture & Model Artist',
   jobDescription: 'Contains a short porfolio of my model art',
-  skills: [
+  mage: [
     {
       name: 'JavaScript',
       description: 'Reprehenderit mollit id ad veniam.'
